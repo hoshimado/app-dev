@@ -9,7 +9,7 @@
 #@# mIiEPqG9_400x400.jpg    病葉
 #@# mUB3SJSi_400x400.jpg    Yuki Ichonomiya
 #@# NqlbbcCl_400x400.jpg    カウプラン機間極東支部
-#@# RkmwJH1I_400x400.jpg    湊川あい
+#@# llminatoll_400x400.jpg    湊川あい
 #@# wQsdxU4b_400x400.jpg    なかひこくん
 #@# KJuhmDlA_400x400.png    ariaki
 #@# __aizack_400x400.jpg    Aizack
@@ -45,7 +45,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-普段は「レーザープロジェクタを自作するためのいろいろ」というあたりのネタで執筆中。コミケと技術書典に出没。デッドライナーだけど、最近締め切りをでっち上げて自分の尻を叩く方法を学んだので、コンスタントに本が書けるようになった。プログラミングは苦手。しめきりたのしー。ワンストップ本1こと、技術同人誌を書こうが商業化したり、錬金ラボをみんなで作ったり、楽しすぎる毎日です。とりあえずのテスト
+ワンストップ本シリーズ企画・編集（一部執筆）してます。コミケと技術書典に出没。ついに技術書同人誌博覧会（技書博）のコアスタッフとして運営側に参加。技術書イベントが増えて嬉しいけれど、イベント多すぎて外出チケットと徳が不足気味。徳を貯めるべく、家事をこなしつつ、ラボに遊びに行ったり、飲み会や懇親会で著者を新規開拓したり。著者募集はいつでもやってまうすので、ぜひご参加ください。
 
 == 執筆者
 
@@ -62,7 +62,7 @@
         \end{minipage}
     \hspace{1ex}
 //}
-SIerからWeb系に転職し、いまはスマホアプリの開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回は自分の経験を通して、目標設定について必須なのかどうかを考えてみました。
+BtoB向けSaaSのバックエンド開発をしているITエンジニア。Twitter、ブログ、Podcast配信、数多くの趣味と楽しく活動中。今回は自分の中のアジャイルに対する考えかたをアウトプットしてみました。
 
 　
 
@@ -160,7 +160,7 @@ Armおじさん。OpenCVのcontributor。CV勉強会@関東幹事の一人。
 執筆やOSSのデバッグはもっぱら電車の中で行います。
 
 　
-#@# ↑明示的な全角空白があるので、忘れずに。
+
 //embed{
     \begin{minipage}{.1\linewidth}
         \centering
@@ -175,5 +175,97 @@ Armおじさん。OpenCVのcontributor。CV勉強会@関東幹事の一人。
 仕事はたぶんIT関連。でも仕事じゃコーディングしてない。
 Node.jsの手軽さが好きな、日曜プログラマー。「こんなツールがあったら便利だな。無いの？なら作ろう」で気づいたらアプリ開発に足を踏み入れてた。そんな日常の延長としてのアプリ開発も、何かの参考になれば嬉しいです。
 
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/mogya_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        もぎゃ @mogya https://twitter.com/mogya\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+おひるねのできるエンジニア。街の電源検索サイト モバイラーズオアシス の他、電子書籍の情報サイトを準備中
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/endohizumi_400x400.png}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        遠藤ヒズミ https://twitter.com/endo\_hizumi\\
+        \end{minipage}
+    \hspace{1ex}
+//}
+都内でPython書いてるSESのWebコーダー。プラモやWebアプリを作ったり、折りたたみタブレットやキーボードつきデバイスを収集する変態ガジェットスキー。手捕り30万欲しい！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/tronperidot_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        kaneko @tronperidot https://twitter.com/tronperidot\\
+        \end{minipage}
+    \hspace{1ex} %コメントとアイコンの間を空けて体裁を整える
+//}
+フロントエンドメインのエンジニア。前職SIer時代のPM経験を生かしてwebディレクターや秘書の副業を行ってたりもしてます。
+
+　
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/erukiti_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        えるきち @erukiti https://twitter.com/erukiti\\
+        サークル名：東京ラビットハウス https://rabbit-house.tokyo/
+        \end{minipage}
+    \hspace{1ex}
+//}
+締め切りが…。ああ、窓に！窓に！
+
+　
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/miriwo_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        miriwo(みりを) @mirimiripc https://twitter.com/mirimiripc
+        \end{minipage}
+    \hspace{1ex}
+//}
+初めての技術同人誌を書かせていただきました。
+2019年7月7日からQiitaを毎日投稿中！(2019年12月1日現在)
+Webエンジニアを目指して奮闘中！楽しくて仕方がないことをお仕事にしたい！
+
+== 表紙イラスト・デザイン　
+
+
+//embed{
+    \begin{minipage}{.1\linewidth}
+        \centering
+        \includegraphics[width=.75\linewidth]{images/contributors/llminatoll_400x400.jpg}
+    \end{minipage}
+    \begin{minipage}{.89\linewidth}
+        湊川あい @llminatoll https://twitter.com/llminatoll\\
+        サークル名：湊川あいの、わかば家。 https://note.com/llminatoll
+        \end{minipage}
+    \hspace{1ex}
+//}
+前回に引き続き、表紙イラストで参加させていただきました。親方さんアイデアの「スリッパを持ってバグを追い回すワンストップちゃん」を描くのが楽しかったです！
+
+
+#@# この上に追記するといい感じになります。明示的な全角空白があるので、忘れずに。
 
 #@#改行されない，hspace効かない，@<br>{}ではエラーがでるので，全角スペースで空の行を入れている

@@ -10,6 +10,7 @@
   "prt": "K-9（ケーナイン）",
   "pbl": "親方Project",
   "edt": "親方Project",
+  "date": "2019-12-14",
   "secnolevel": 3,
   "titlepage": true,
   "review_version": 3.0,
@@ -26,26 +27,29 @@
     "CHAPS": [
       "chap-contents.md",
       "chap-application.md",
+      "chap-basic-file.md",
+      "chap-basic-naming.md",
+      "chap-basic-git.md",
       "chap-development-environment.md",
       "chap-handcopy.md",
+      "chap-makesmallappforme.md",
       "chap-technique.md",
+      "chap-ui-design.md",
       "chap-coding.md",
       "chap-testing.md",
       "chap-tdd-what-is-happy.md",
-      "chap-makesmallappforme.md",
-      "csprograming.re",
-      "chap-make-easy.md",
-      "chap-ui-design.md",
-      "chap-software-design.md",
       "chap-deploy.md",
-      "chap-team-development.md",
-      "chap-agile.md",
       "chap-requirements.md",
-      "chap-simulationapp.re",
-
+      "chap-team-development.md",
+      "chap-software-design.md",
+      "chap-agile.md",
+      "chap-security.md",
       "placeholder.md",
+
+      "csprograming.re",
+      "chap-simulationapp.re",
       "chap-capistrano.md",
-      "chap-security.md"
+      "endohizumi.md"
     ],
     "POSTDEF": ["contributors.re", "postscript.re"]
   }
